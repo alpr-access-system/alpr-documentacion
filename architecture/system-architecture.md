@@ -196,6 +196,6 @@ flowchart TB
 
 | ADR | Título | Estado |
 |---|---|---|
-| [ADR-001](./_ADR-001-stack-central.md) | Stack tecnológico del Nodo Central | ⏳ Por documentar |
-| [ADR-002](./_ADR-002-stack-edge.md) | Stack tecnológico del Nodo de Borde | ⏳ Por documentar |
+| [ADR-001](./ADR-001-stack-central.md) | Stack tecnológico del Nodo Central | ✅ Documentado |
+| [ADR-002](./ADR-002-stack-edge.md) | Stack tecnológico del Nodo de Borde | ✅ Documentado |
 | [ADR-003](./_ADR-003-docker-infra.md) | Uso de Docker como infraestructura base | ✅ Documentado |

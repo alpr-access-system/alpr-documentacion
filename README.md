@@ -36,8 +36,8 @@ alpr-documentacion/
 │
 ├── architecture/                    # Decisiones de arquitectura (ADRs)
 │   ├── system-architecture.md       # Diagrama C4 y descripción general
-│   ├── _ADR-001-stack-central.md    # Stack del Nodo Central
-│   ├── _ADR-002-stack-edge.md       # Stack del Nodo de Borde
+│   ├── ADR-001-stack-central.md     # Stack del Nodo Central
+│   ├── ADR-002-stack-edge.md        # Stack del Nodo de Borde
 │   └── _ADR-003-docker-infra.md     # Decisión de infraestructura con Docker
 │
 ├── specs/                           # Especificaciones funcionales
